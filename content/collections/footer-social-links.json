@@ -1,7 +1,20 @@
 {
   "items": [
-    { "label": "LinkedIn", "href": "https://www.linkedin.com/company/frontier-quotient" },
-    { "label": "X", "href": "https://x.com/F_quotient" },
-    { "label": "Instagram", "href": "https://www.instagram.com/frontierquotient" }
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/frontier-quotient"
+    },
+    {
+      "label": "X",
+      "href": "https://x.com/F_quotient"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/frontierquotient"
+    },
+    {
+      "label": "Pinterest",
+      "href": "https://www.pinterest.com/frontierquotient"
+    }
   ]
 }
